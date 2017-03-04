@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="story_title_padding">5dp</dimen>
+    <dimen name="story_title">15dp</dimen>
+</resources>
